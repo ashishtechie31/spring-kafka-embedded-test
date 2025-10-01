@@ -1,0 +1,25 @@
+{
+  "EmpId": "1",
+  "EmpName": "ashish",
+  "Salary": 123,
+  "DateOfJoining": "2025-12-12",
+  "Department": {
+    "DepartmentId": "000000000",
+    "DepartmentType": "IT",
+    "EmpId": "1",
+    "Address": {
+      "Street": "testStreet",
+      "City": "pune",
+      "PinCode": "411057",
+      "State": "MH",
+      "Country": "India"
+    }
+  },
+  "Address": {
+    "Street": "testStreet",
+    "City": "pune",
+    "PinCode": "411057",
+    "State": "MH",
+    "Country": "India"
+  }
+}
